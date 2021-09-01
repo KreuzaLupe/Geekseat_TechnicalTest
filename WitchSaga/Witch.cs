@@ -8,6 +8,8 @@ namespace WitchSaga
     {
         public int FirstYearOfControl
         {
+            //the witch took control in year 1
+
             get { return 1; }
             set { }
         }
@@ -15,7 +17,7 @@ namespace WitchSaga
         //method that calucates the number of deaths in base of the year
         //from the example for the first year i calculated that the arithmetic expression is Fibonacci(n+2)-1
        
-        public static int DeathperYear(int year)
+        public int DeathperYear(int year)
         {
             //the witch took control in year 1, so if year is before we should calculate any deaths
             if (year < 1)
@@ -28,8 +30,7 @@ namespace WitchSaga
             }
         }
 
-        //method which calculates the fibonacci series, ad given a specific  lndth (n) it returns the fibonacci 
-        //number corresponding to that
+        //method which calculates the fibonacci series, ad given a specific  length (n), it returns the fibonacci series number corresponding to that
         public static int FibonacciNumbers(int n)
         {
             int firstNr = 0, secNr = 1, res = 0;

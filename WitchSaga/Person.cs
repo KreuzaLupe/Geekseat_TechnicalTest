@@ -7,7 +7,7 @@ namespace WitchSaga
    public  class Person
     {
         public string Fullname { get; set; }
-        public int Age { get; set; }
+        public int AgeofDeath { get; set; }
         public int YearOfDeath { get; set; }
 
     }

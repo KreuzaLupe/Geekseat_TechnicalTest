@@ -15,12 +15,11 @@ namespace WitchSagaUnitTest
             List<Person> lst = new List<Person>();
             Person p1 = new Person();
             p1.YearOfDeath = 15;
-            p1.Age = 10;
+            p1.AgeofDeath = 10;
             lst.Add(p1);
             Person p2 = new Person();
-            p2.Age = 13; p2.YearOfDeath = 17;
+            p2.AgeofDeath = 13; p2.YearOfDeath = 17;
             lst.Add(p2);
-
 
             //Act
             double actual = CoderReturn.averageDeathsperYear(lst);
@@ -37,10 +36,10 @@ namespace WitchSagaUnitTest
             List<Person> lst = new List<Person>();
             Person p1 = new Person();
             p1.YearOfDeath = 12;
-            p1.Age = 13;
+            p1.AgeofDeath = 13;
             lst.Add(p1);
             Person p2 = new Person();
-            p2.Age = 13; p2.YearOfDeath = 17;
+            p2.AgeofDeath = 13; p2.YearOfDeath = 17;
             lst.Add(p2);
 
 
@@ -59,10 +58,10 @@ namespace WitchSagaUnitTest
             List<Person> lst = new List<Person>();
             Person p1 = new Person();
             p1.YearOfDeath = 12;
-            p1.Age = -9;
+            p1.AgeofDeath = -9;
             lst.Add(p1);
             Person p2 = new Person();
-            p2.Age = 13; p2.YearOfDeath = 17;
+            p2.AgeofDeath = 13; p2.YearOfDeath = 17;
             lst.Add(p2);
 
 
