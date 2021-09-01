@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\WitchSaga\\WitchSaga\\WitchSaga.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\Geekseat_TechnicalTest\\WitchSaga\\WitchSaga.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\WitchSaga\\WitchSaga\\WitchSaga.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\Geekseat_TechnicalTest\\WitchSaga\\WitchSaga.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\WitchSaga\\WitchSaga\\WitchSaga.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Geekseat_TechnicalTest\\WitchSaga\\WitchSaga.csproj",
         "projectName": "WitchSaga",
-        "projectPath": "C:\\Users\\User\\source\\repos\\WitchSaga\\WitchSaga\\WitchSaga.csproj",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\Geekseat_TechnicalTest\\WitchSaga\\WitchSaga.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\WitchSaga\\WitchSaga\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\Geekseat_TechnicalTest\\WitchSaga\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
